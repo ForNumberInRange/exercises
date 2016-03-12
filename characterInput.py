@@ -8,4 +8,4 @@ age = raw_input('Pls. Enter your age: ')
 age_dif = 100 - eval(age)
 i00Years = age_dif + today.year
 
-print 'Hi! %s. You wold be 100years in year %d' %(name,i00Years)
+print 'Hi! %s. You would be 100years in year %d' %(name, i00Years)
